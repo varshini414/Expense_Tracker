@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/target/
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+
+# Logs
+*.log
+
